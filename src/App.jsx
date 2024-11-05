@@ -19,6 +19,7 @@ function App() {
     </li>
    ))}
   </ul>
+  <img src="/public/images/netflix.png" className='img-title'></img>
     </>
   )
 }

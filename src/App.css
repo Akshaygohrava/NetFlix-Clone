@@ -60,3 +60,10 @@ li {
   -ms-border-radius: 100rem;
   -o-border-radius: 100rem;
 }
+.img-title {
+  height: 70px;
+  width: 70px;
+  position: relative;
+  top: -513px;
+  left: 5px;
+}
