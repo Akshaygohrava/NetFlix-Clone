@@ -60,3 +60,28 @@ li {
   -ms-border-radius: 100rem;
   -o-border-radius: 100rem;
 }
+footer {
+  
+}
+.input-email {
+  padding: 12px 17px;
+  border: 1px solid white;
+  border-radius: 20px;
+  margin-right: 30px;
+  background-color: #242424;
+}
+.input-email::placeholder {
+  font-size: 1.2rem;
+}
+.netflix-button {
+  color: white;
+  background-color: red;
+  border-radius: 30px;
+  font-size: 1.3rem;
+  padding: -10px -10px !important;
+}
+@media screen and (max-width: 700px) {
+  .input-email {
+    margin-bottom:30px;
+  }
+}

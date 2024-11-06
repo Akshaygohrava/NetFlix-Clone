@@ -18,6 +18,13 @@ function App() {
       <button className='mb-5'><a href={props.watch_url}>Watch Now</a></button>
     </li>
    ))}
+   <footer className='relative bottom-0 bg-stone-900 w-full h-60'>
+    <div className='mt-8'>
+    <input type='email' className='input-email' placeholder='Email address' required></input>
+    <button className='netflix-button'>Get Started</button>
+    </div>
+    
+   </footer>
   </ul>
     </>
   )
