@@ -87,6 +87,7 @@ footer {
   }
   .footer-msg {
     gap: 0;
+    flex-wrap: nowrap;
   }
   footer {
     height: 34rem;
