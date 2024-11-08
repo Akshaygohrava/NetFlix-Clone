@@ -1,10 +1,10 @@
 #root {
   max-width: 100%;
-  margin: 0 auto;
+  margin: 0;
   padding: 2rem;
   text-align: center;
 }
-li {
+.netflix-list{
   list-style-type: none;
   border: 2px solid black;
   border-radius: 5px;
@@ -14,11 +14,11 @@ li {
 button {
   width: 15rem;
 }
-ul {
+.net-ul {
   height: 70vh !important;
   clear: both;
 }
-li {
+.netflix-list {
   justify-content: center;
   align-items: center;
   background-color: #00000085;
@@ -60,9 +60,6 @@ li {
   -ms-border-radius: 100rem;
   -o-border-radius: 100rem;
 }
-footer {
-  
-}
 .input-email {
   padding: 12px 17px;
   border: 1px solid white;
@@ -79,6 +76,10 @@ footer {
   border-radius: 30px;
   font-size: 1.3rem;
   padding: -10px -10px !important;
+}
+footer {
+  width: 100%;
+  height: 17rem;
 }
 @media screen and (max-width: 700px) {
   .input-email {
