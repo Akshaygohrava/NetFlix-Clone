@@ -24,7 +24,7 @@ function App() {
    </form>
    <footer className='relative bottom-0 bg-stone-900 p-5'>
     <p>Questions? Call </p><span className='underline'>000-800-919-1694</span>
-    <div className='flex flex-row justify-center align-middle mt-5 gap-32 sm:flex-row'>
+    <div className='footer-msg flex flex-row justify-center align-middle mt-5 gap-32 flex-wrap'>
     <ul className='flex flex-col gap-1'>
       <li>FAQ</li>
       <li>Investor Relations</li>
@@ -49,8 +49,9 @@ function App() {
       <li>Contact Us</li>
     </ul>
     </div>
-   
+   <p className='mt-3'>@NetFlix India</p>
    </footer>
+  
   </ul>
     </>
   )
