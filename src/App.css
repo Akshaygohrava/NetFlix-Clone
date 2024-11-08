@@ -81,6 +81,9 @@ footer {
   width: 100%;
   height: 17rem;
 }
+::placeholder {
+  text-align: center;
+}
 @media screen and (max-width: 500px) {
   .input-email {
     margin-bottom:30px;

@@ -10,16 +10,6 @@
     "watch_url": "https://www.viki.com/tv/40466c-lovely-runner"
   },
   {
-    "name": "Stranger Things",
-    "id": "stranger-things",
-    "img_url": "images/st.jpg",
-    "rating": "8.7",
-    "description": "A group of young friends witness supernatural forces and secret government exploits.",
-    "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
-    "genre": ["Drama"," ", "Fantasy"," ", "Horror"],
-    "watch_url": "https://www.netflix.com/title/80057281"
-  },
-  {
     "name": "The Witcher",
     "id": "the-witcher",
     "img_url": "images/tw.webp",
@@ -60,14 +50,24 @@
     "watch_url": "https://www.netflix.com/title/81040344"
   },
   {
-    "name": "Queen of Tears",
-    "id": "queen-of-tears",
-    "img_url": "images/qot.jpg",
-    "rating": "8.2",
-    "description": "A gripping tale of love, loss, and resilience set against the backdrop of a war-torn nation.",
-    "cast": ["Kim Soo Hyun", "Kim Ji Won"],
-    "genre": ["Drama"," ", "Romance"],
-    "watch_url": "https://www.viki.com/tv/23456789c-queen-of-tears"
+    "name": "Stranger Things",
+    "id": "stranger-things",
+    "img_url": "images/st.jpg",
+    "rating": "8.7",
+    "description": "A group of young friends witness supernatural forces and secret government exploits.",
+    "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+    "genre": ["Drama"," ", "Fantasy"," ", "Horror"],
+    "watch_url": "https://www.netflix.com/title/80057281"
+  },
+  {
+    "name": "Wednesday",
+    "id": "wednesday",
+    "img_url": "https://i0.wp.com/millsthunderbolt.com/wp-content/uploads/2023/01/wednesday-scaled.jpeg?fit=1200%2C675&ssl=1&w=640",
+    "rating": "8.1",
+    "description": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates a murder.",
+    "cast": ["Jenna Ortega"," ", "Gwendoline Christie"],
+    "genre": [" TV Mysteries"," " ,"TV Comedies"],
+    "watch_url": "https://www.netflix.com/in/title/81231974"
   },
   {
     "name": "Queen of Tears",
@@ -80,13 +80,13 @@
     "watch_url": "https://www.viki.com/tv/23456789c-queen-of-tears"
   },
   {
-    "name": "Queen of Tears",
-    "id": "queen-of-tears",
-    "img_url": "images/qot.jpg",
-    "rating": "8.2",
-    "description": "A gripping tale of love, loss, and resilience set against the backdrop of a war-torn nation.",
-    "cast": ["Kim Soo Hyun", "Kim Ji Won"],
-    "genre": ["Drama"," ", "Romance"],
-    "watch_url": "https://www.viki.com/tv/23456789c-queen-of-tears"
+    "name": "From",
+    "id": "from",
+    "img_url": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/From---Lost.jpg",
+    "rating": "7.8",
+    "description": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out.",
+    "cast": ["Harold Perrineau"," ", "Eion Bailey"],
+    "genre": ["Horror"," ", "Mystery"],
+    "watch_url": "https://www.primevideo.com/detail/From/0HZ46ZSV2M6WU8W7MIO8OMR5EK"
   }
 ]

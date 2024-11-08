@@ -61,7 +61,7 @@ function App() {
 
     
     </div>
-   <p className='mt-3'>@NetFlix India</p>
+   <p className='mt-7'>© 2024 NETFLIX</p>
    </footer>
   
   </ul>
