@@ -4,7 +4,7 @@ import series from './MovieList.json'
 function App() {
   return (
     <>
-  <h1 className="text-4xl font-bold mb-7 pb-2 text text-red-500">NetFlix</h1>
+  <h1 className="text-4xl font-bold mb-7 pb-2 text text-red-500 pt-8">NetFlix</h1>
   <ul className='net-ul flex flex-row gap-8 flex-wrap justify-around'>
    {series.map((props) => (
     <li key={props.id} className='netflix-list flex flex-col gap-5 justify-start align-middle'>

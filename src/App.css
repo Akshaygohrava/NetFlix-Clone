@@ -1,10 +1,10 @@
 #root {
   max-width: 100%;
   margin: 0;
-  padding: 2rem;
+ 
   text-align: center;
 }
-.netflix-list{
+.netflix-list {
   list-style-type: none;
   border: 2px solid black;
   border-radius: 5px;
@@ -19,7 +19,7 @@ button {
   clear: both;
 }
 .netflix-list {
-  justify-content: center;
+  justify-content: start;
   align-items: center;
   background-color: #00000085;
   border-radius: 5px;
