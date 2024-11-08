@@ -25,18 +25,23 @@ function App() {
    <footer className='relative bottom-0 bg-stone-900 p-5'>
     <p>Questions? Call </p><span className='underline'>000-800-919-1694</span>
     <div className='footer-msg flex flex-row justify-center align-middle mt-5 gap-32 flex-wrap'>
+    <div>
     <ul className='flex flex-col gap-1'>
       <li>FAQ</li>
       <li>Investor Relations</li>
       <li>Privacy</li>
       <li>Speed Test</li>
     </ul>
-    <ul className='flex flex-col gap-1'>
+    </div>
+   <div>
+   <ul className='flex flex-col gap-1'>
       <li>Help Centre</li>
       <li>Jobs</li>
       <li>Cookie Preferences</li>
       <li>Legal Notices</li>
     </ul>
+   </div>
+    
     <div className='text-2'>
     <ul className='flex flex-col gap-1'>
       <li>Account</li>
@@ -44,13 +49,13 @@ function App() {
       <li>Corporate Information</li>
       <li>Only on Netflix</li>
     </ul>
+    </div>
     <div className='mt-2'>
     <ul className='flex flex-col gap-1'>
       <li>Media Centre</li>
       <li>Terms of Use</li>
       <li>Contact Us</li>
     </ul>
-    </div>
     </div>
     </div>
    <p className='mt-3'>@NetFlix India</p>
