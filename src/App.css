@@ -88,6 +88,7 @@ footer {
   }
   .footer-msg {
     gap: 0;
+    flex-direction: column;
   }
   footer {
     height: 35rem;

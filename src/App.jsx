@@ -57,6 +57,9 @@ function App() {
       <li>Contact Us</li>
     </ul>
     </div>
+
+
+    
     </div>
    <p className='mt-3'>@NetFlix India</p>
    </footer>
