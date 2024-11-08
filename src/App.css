@@ -84,10 +84,10 @@ footer {
 @media screen and (max-width: 500px) {
   .input-email {
     margin-bottom:30px;
+    margin-left: 30px;
   }
   .footer-msg {
     gap: 0;
-    flex-wrap: nowrap;
   }
   footer {
     height: 34rem;

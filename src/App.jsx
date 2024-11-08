@@ -37,17 +37,21 @@ function App() {
       <li>Cookie Preferences</li>
       <li>Legal Notices</li>
     </ul>
+    <div className='text-2'>
     <ul className='flex flex-col gap-1'>
       <li>Account</li>
       <li>Ways to Watch</li>
       <li>Corporate Information</li>
       <li>Only on Netflix</li>
     </ul>
+    <div className='mt-2'>
     <ul className='flex flex-col gap-1'>
       <li>Media Centre</li>
       <li>Terms of Use</li>
       <li>Contact Us</li>
     </ul>
+    </div>
+    </div>
     </div>
    <p className='mt-3'>@NetFlix India</p>
    </footer>
